@@ -14,10 +14,6 @@ paragraf paragraf
 |:---|:--:|---:|
 |aaaa|bbbb|cccc|
 
-
-
-
-
 ![img.jpg](img.jpg) {#imgid}
 
 [link do nagłówka](#id)
