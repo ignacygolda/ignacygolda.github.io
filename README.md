@@ -1,3 +1,5 @@
+[link do obrazka](#imgid)
+
 # ignacygolda.github.io
 
 # Nagłówek {#id}
@@ -12,6 +14,10 @@ paragraf paragraf
 |:---|:--:|---:|
 |aaaa|bbbb|cccc|
 
-![img.jpg](img.jpg)
+
+
+
+
+![img.jpg](img.jpg) {#imgid}
 
 [link do nagłówka](#id)
